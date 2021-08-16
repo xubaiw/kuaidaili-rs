@@ -13,6 +13,8 @@ Since Kuaidaili is mostly used by users from China mainland, a Simplified Chines
 
 **NOTE**: this crate is not an official implementation.
 
+**NOTE**: this crate is in very early stage and is very error prone.
+
 ## QuickStart
 
 ```Rust
