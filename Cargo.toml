@@ -2,6 +2,8 @@
 name = "kuaidaili"
 version = "0.1.0"
 edition = "2018"
+description = "A Rust wrapper for Kuaidaili API"
+license = "MIT"
 
 [features]
 simple = []
